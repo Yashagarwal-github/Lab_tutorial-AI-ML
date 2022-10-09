@@ -1,4 +1,4 @@
-# Lab_tutorial-AI-ML
+# Lab_tutorial-AI/ML
 Problems on AI/ML
 
 Name - Yash Agarwal,
